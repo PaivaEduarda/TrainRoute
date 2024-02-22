@@ -13,8 +13,6 @@
 * [Project Description](#project-description)
 * [Features and Application Demo](#features-and-application-demon)
 * [Technologies used](#technologies-used)
-* [Project Developers](#project-developers)
-* [License](#license)
 
 # Project Description
 <p>
@@ -38,9 +36,9 @@
 - `Binary Three`
 - `Linked List`
 
-# Autores
+# authors
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114159027?v=4" width=115><br><sub>Eduarda Paiva</sub>](https://github.com/PaivaEduarda) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114162946?v=4" width=115><br><sub>Eloisa Paixão</sub>](https://github.com/biaacoutinho) | 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114159027?v=4" width=115><br><sub>Eduarda Paiva</sub>](https://github.com/PaivaEduarda) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/114162946?v=4" width=115><br><sub>Eloisa Paixão</sub>](https://github.com/eloisapaixao) | 
 | :---: | :---: |
 
 
