@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=Status&message=Finished&color=blue&style=for-the-badge"/>
-<img loading="lazy" src="http://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=for-the-badge"/>
-<img loading="lazy" src="http://img.shields.io/static/v1?label=Release%20Date&message=June&color=blue&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=Status&message=Finished&color=yellow&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=License&message=MIT&color=yellow&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=Release%20Date&message=June&color=yellow&style=for-the-badge"/>
 </p>
 
 # Index 
@@ -15,7 +15,6 @@
 * [Technologies used](#technologies-used)
 * [Project Developers](#project-developers)
 * [License](#license)
-* [Conclusion](#conclusion)
 
 # Project Description
 <p>
